@@ -5,7 +5,8 @@ Bộ tài liệu cho kênh YouTube faceless **lịch sử Việt Nam – phươn
 ## Đọc theo thứ tự
 1. [`VIET_TRUNG_HISTORY_CHANNEL_STRATEGY.md`](VIET_TRUNG_HISTORY_CHANNEL_STRATEGY.md) — **Chiến lược V1.0**: dữ liệu thị trường, định vị, phạm vi, trụ cột, cổng chọn đề, đóng gói, nhịp đăng, **lịch 2 tuần đầu (6 tập + 14 Shorts, title viết sẵn)** và ngân hàng title tuần 3–8.
 2. [`VIET_TRUNG_FRAMEWORK_V1/`](VIET_TRUNG_FRAMEWORK_V1/README.md) — **Framework viết kịch bản V1.0**: từ lúc đề đã được chọn tới khi khoá kịch bản và gói đăng. Cùng cấu trúc với History Channel Framework V3, thêm phần hai phía, nguồn phía Bắc, cách gọi tên và gói đăng.
-3. [`sources/`](sources/) — tài liệu gốc dùng để chuẩn hoá: chiến lược kênh lịch sử chung V1.0, chiến lược Việt–Trung v0.2 và v0.3, History Channel Framework V3 (kèm 2 kịch bản mẫu Quang Trung V11 và Trần Thủ Độ V24).
+3. [`skills/hook-viet-trung/`](skills/hook-viet-trung/SKILL.md) — **Skill viết hook** (Claude Code): nhiều option hook mở bài theo 7 công thức rút từ 38 phần mở đầu thật, khớp bốn hình dạng A/B/C/D. Cài bằng cách chép thư mục vào `~/.claude/skills/`.
+4. [`sources/`](sources/) — tài liệu gốc dùng để chuẩn hoá: chiến lược kênh lịch sử chung V1.0, chiến lược Việt–Trung v0.2 và v0.3, History Channel Framework V3 (kèm 2 kịch bản mẫu Quang Trung V11 và Trần Thủ Độ V24).
 
 ## Cấu trúc
 ```
@@ -23,6 +24,7 @@ VIET_TRUNG_FRAMEWORK_V1/
   WORKFLOW_PROMPTS.md                      8 lệnh dùng ngay
   TEMPLATES/01–07                          brief, ledger, story map, hook test, audit, đối chiếu nguồn, gói đăng
   REFERENCE_SCRIPTS/README.md              bản mẫu tạm và điều kiện chốt
+skills/hook-viet-trung/                    skill viết hook (SKILL.md + references/)
 sources/                                   tài liệu gốc
 ```
 
