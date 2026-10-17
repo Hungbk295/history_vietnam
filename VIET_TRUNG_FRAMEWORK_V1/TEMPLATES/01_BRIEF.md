@@ -1,0 +1,18 @@
+# PROJECT BRIEF — điền linh hoạt
+- Đề / phạm vi:
+- Câu hỏi "Vì sao" của tập (= tiêu đề A):
+- Phía Bắc: Tống / Nguyên / Minh / Thanh — triều đình, người cầm quân:
+- Trụ cột chính (Strategy §6):
+- Series "Sử phương Bắc chép gì": có / không
+- Vật / cảnh trục:
+- Người xem mục tiêu (mặc định 16–28, chưa biết sử):
+- Người xem cần hiểu điều gì sau video:
+- Mốc thời gian / địa bàn:
+- Điểm đã chốt, không được tự ý đổi:
+- Mức nghiên cứu đã hoàn tất:
+- Nguồn hiện có — phía Việt / phía Bắc / nghiên cứu:
+- Nguồn cần tìm:
+- Kiểm trùng đề với Lịch Sử Ngoại Truyện và kịch bản mẫu: đã kiểm / kết quả
+- Độ dài mong muốn (mặc định 11–16 phút):
+- Đầu ra yêu cầu: đề cương / toàn văn / đối chiếu nguồn / chấm / sửa / gói đăng / xuất file
+- Ràng buộc: không hư cấu; ghi chú tách khỏi AI Voice; gọi tên theo bảng chuẩn; không so với hôm nay

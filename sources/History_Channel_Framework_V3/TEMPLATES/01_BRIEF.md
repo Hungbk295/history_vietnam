@@ -1,0 +1,11 @@
+# PROJECT BRIEF — điền linh hoạt
+- Chủ đề / phạm vi:
+- Người xem mục tiêu:
+- Người xem cần hiểu điều gì sau video:
+- Mốc thời gian / địa bàn:
+- Điểm đã chốt, không được tự ý đổi:
+- Mức độ nghiên cứu đã hoàn tất:
+- Nguồn hiện có / nguồn cần tìm:
+- Độ dài mong muốn (nếu có):
+- Đầu ra yêu cầu: đề cương / toàn văn / chấm / sửa / xuất file
+- Ràng buộc: không hư cấu, ghi chú tách khỏi AI Voice
